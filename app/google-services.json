@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990065170006",
+    "firebase_url": "https://smartremainder-96a0c.firebaseio.com",
+    "project_id": "smartremainder-96a0c",
+    "storage_bucket": "smartremainder-96a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990065170006:android:f1ce985fb8d317b7",
+        "android_client_info": {
+          "package_name": "com.sbiitju.smartremainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990065170006-0flqrp4bmlgpk61maopndptmtnjn6486.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbiitju.smartremainder",
+            "certificate_hash": "7a05582110cb04daa13c94c23dd291a85285f754"
+          }
+        },
+        {
+          "client_id": "990065170006-p46a9l3o0e8cn3ullmf6q0or0vhu2lft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ayVJjKr0t87JVfqQnbRDVgUUa671hek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990065170006-p46a9l3o0e8cn3ullmf6q0or0vhu2lft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

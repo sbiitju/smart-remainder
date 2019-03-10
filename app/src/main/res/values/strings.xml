@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Smart Remainder</string>
+    <string-array name="day">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thuesday</item>
+        <item>Friday</item>
+    </string-array>
+    <string-array name="classcourse">
+        <item>1st_class</item>
+        <item>2nd_class</item>
+        <item>3rd_class</item>
+        <item>4th_class</item>
+        <item>5th_class</item>
+        <item>6th_class</item>
+        <item>7th_class</item>
+    </string-array>
+</resources>

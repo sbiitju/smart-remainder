@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="About"
+        app:showAsAction="never"
+        android:id="@+id/about"
+        />
+    <item
+        android:title="Sign Out"
+        android:icon="@drawable/ic_lock_outline_black_24dp"
+        app:showAsAction="never"
+        android:id="@+id/signout"
+        />
+
+
+
+</menu>
